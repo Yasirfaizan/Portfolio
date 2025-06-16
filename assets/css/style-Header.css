@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    padding: 0px ;
+    box-sizing: border-box;
+    background-color: #F2F5F9;
+    width: 100vw;
+    display: block;
+    height: 102px;
+}
+.header{
+    margin: 0px auto;
+    width: 86vw;
+    height: 102px;
+    display: flex;
+    justify-content: space-between;
+
+.orbitron-logo{
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+.first-Name{
+   font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+.last-Name{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background: linear-gradient(90deg,#FF9C1A,#ED250A);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+}
+.mode{
+    align-self: center;
+    border: white;
+    background-color: white;
+    width: 3.5vw;
+    height: 56px;
+    font-size: 14vh;
+    font-size: 1.6vw;
+    border-radius: 50%;
+}    
+}
